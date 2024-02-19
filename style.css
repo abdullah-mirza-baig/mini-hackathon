@@ -28,6 +28,11 @@ li{
 
 }
 
+
+
+  
+/* top bg image */
+
 .first-header1{
     background-image: url(./assets/images/bg_1.jpg);
     background-position: center;
@@ -36,6 +41,7 @@ li{
     height: 700px;
 }
 
+    /* first header section */
 
 .first-header span{
 
@@ -66,6 +72,8 @@ li{
     background-color: var(--primary-color);
     
 }
+
+/* second header section  */
 
 .second-header .class1{
     display: flex;
@@ -112,6 +120,8 @@ li{
     margin-bottom: 50px;
 }
 
+/* banner section  */
+
 .banner .content h1{
 
     font-size: 3.5em;
@@ -155,4 +165,13 @@ li{
     color: var(--secondary-color);
     border: 1px solid var(--secondary-color);
 }
+
+
+/* end of banner  */
+
+
+/* media queries */
+
+/* d
+
 
